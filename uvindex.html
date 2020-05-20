@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--[sc name="uvindex"]-->
+<!--UV API from OPENUV web, get the max UV level of today in Victoria -->
+<!-- part 2 of footer ABOUT UV level section-->
+<p style="font-family:Arial,Helvetica,sans-serif;text-align:left;font-size:17px;color:#FFFFFF;"><i><strong>FIND UV LEVELS</strong></i><br></p>
+<div class="box" id="value">
+    <!--display Victoria UV level in rea-time, use API-->
+    <p style="font-family:Arial,Helvetica,sans-serif;text-align:left;color:#FFFFFF;font-size:15px;"><strong>Victoria MAX UV today:</strong></p>
+</div><br>
+<!-- add link to the find UV level page-->
+<p style="font-family:Abril Fatface;text-align:left;font-size:14px;"><a href="https://www.vitafelix.live/find-uv-levels/" style="color:#46707F;"><b><i>☞ CHECK UV RADIATION HERE</i></b></a></p>
+<!--CSS about the box-->
+<style>
+    .box{
+        border-radius:5px;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+
+</style>
+<!--API function script -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+    var settings = {
+        "async": true,
+        "crossDomain": true,
+        "url": "https://aershov-openuv-global-real-time-uv-index-v1.p.rapidapi.com/api/v1/uv?lat=-37.81&lng=145.11",
+        "method": "GET",
+        "headers": {
+            "x-rapidapi-host": "aershov-openuv-global-real-time-uv-index-v1.p.rapidapi.com",
+            "x-rapidapi-key": "620e07b4a3msh8c80b9333c0da5fp197fcajsndeb066047788",
+            "x-access-token": "b0028dde305802d613885e2c62614f2a"
+        }
+    }
+
+    $.ajax(settings).done(function (response) {
+        console.log(response);
+        var allTechs = response;
+
+        console.log(response.result.uv_max);
+
+        document.getElementById("value").innerHTML = "Victoria MAX UV today: " + response.result.uv_max;
+
+    });
+
+
+</script>
+</html>
