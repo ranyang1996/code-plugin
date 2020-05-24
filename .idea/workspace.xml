@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f22ccd0f-a1fd-4169-bcb9-45c2d959cde9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/cardgame.html" afterPath="$PROJECT_DIR$/cardgame.html" />
-      <change beforePath="$PROJECT_DIR$/copyright-volunteer-donation-hp.html" afterPath="$PROJECT_DIR$/copyright-volunteer-donation-hp.html" />
-      <change beforePath="$PROJECT_DIR$/flood-diagram.html" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -104,17 +101,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cardgame.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="cardgame.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cardgame.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="344" column="60" lean-forward="true" selection-start-line="344" selection-start-column="60" selection-end-line="344" selection-end-column="60" />
+            <state relative-caret-position="354">
+              <caret line="358" column="53" lean-forward="true" selection-start-line="358" selection-start-column="53" selection-end-line="358" selection-end-column="53" />
               <folding>
                 <element signature="n#style#0;n#i#0;n#div#1;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -147,7 +140,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="copyright-volunteer-donation-hp.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="copyright-volunteer-donation-hp.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/copyright-volunteer-donation-hp.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -231,10 +224,10 @@
         <option value="$PROJECT_DIR$/bushfire-diagram.html" />
         <option value="$PROJECT_DIR$/skincancer-diagram.html" />
         <option value="$PROJECT_DIR$/uvindex.html" />
-        <option value="$PROJECT_DIR$/cardgame.html" />
         <option value="$PROJECT_DIR$/copyright-post.html" />
         <option value="$PROJECT_DIR$/copyright-east-gippsland.html" />
         <option value="$PROJECT_DIR$/copyright-volunteer-donation-hp.html" />
+        <option value="$PROJECT_DIR$/cardgame.html" />
       </list>
     </option>
   </component>
@@ -246,7 +239,6 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.6" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="82" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="667" />
@@ -266,18 +258,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="backup" type="cbb8eebc:String" user="backup" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -289,6 +269,18 @@
               <item name="backup" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
               <item name="PHP Runtime" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="backup" type="cbb8eebc:String" user="backup" />
             </path>
           </expand>
           <select />
@@ -351,16 +343,18 @@
       <workItem from="1589202572154" duration="1656000" />
       <workItem from="1589868618985" duration="4439000" />
       <workItem from="1590314257635" duration="521000" />
+      <workItem from="1590315599614" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20704000" />
+    <option name="totallyTimeSpent" value="20732000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="82" y="23" width="1280" height="667" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="667" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26979" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27382874" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -405,7 +399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="83" lean-forward="false" selection-start-line="10" selection-start-column="83" selection-end-line="10" selection-end-column="83" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -539,7 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -638,7 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -646,7 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -654,7 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -682,14 +671,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flood-diagram.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/flood-diagram.html" />
     <entry file="file://$PROJECT_DIR$/drought-diagram.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -739,20 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cardgame.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="344" column="60" lean-forward="true" selection-start-line="344" selection-start-column="60" selection-end-line="344" selection-end-column="60" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#div#1;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#9;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#11;n#ul#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/copyright-post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -783,6 +751,16 @@
           <folding>
             <element signature="n#style#0;n#p#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cardgame.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="358" column="53" lean-forward="true" selection-start-line="358" selection-start-column="53" selection-end-line="358" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#div#1;n#section#0;n#div#0;n#body#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
